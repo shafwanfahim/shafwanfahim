@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shafwanfahim
+- 👋 Hi, I’m Shafwan Fahim
 - 👀 I’m interested in front-end development and systems design 
 - 🌱 I’m currently studying Computer Engineering at McMaster University
 - 📫 Please reach me at fahims5@mcmaster.ca
